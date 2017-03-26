@@ -42,3 +42,4 @@ When average is not average: large response time fluctuations in n-tier systems.
 
 **[5]** Han Yu, Chunyan Miao, Bo An, Zhiqi Shen, Cyril Leung: Reputation-aware task allocation for human trustees. AAMAS 2014: 357-364. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/AAMAS-2014-Reputation-aware%20task%20allocation%20for%20human%20trustees.pdf) :star::star::star::star::star:
 
+**[6]** Han Yu, Xinjia Yu, Sufang Lim, Jun Lin, Zhiqi Shen, Chunyan Miao: A multi-agent game for studying human decision-making. AAMAS 2014: 1661-1662. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/AAMAS-2014-A%20multi-agent%20game%20for%20studying%20human%20decision-making.pdf) :star::star::star::star::star:
