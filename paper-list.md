@@ -35,3 +35,6 @@ When average is not average: large response time fluctuations in n-tier systems.
 **[1]** Han Yu, Chunyan Miao, Zhiqi Shen, Cyril Leung, Yiqiang Chen, Qiang Yang: Efficient Task Sub-Delegation for Crowdsourcing. AAAI 2015: 1305-1312. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/Han%20Yu-AAAI2015-Efficient%20Task%20Sub-Delegation%20for%20Crowdsourcing.pdf) :star::star::star::star::star:
 
 **[2]** Han Yu, Zhiqi Shen, Chunyan Miao, Cyril Leung, Yiqiang Chen, Simon Fauvel, Jun Lin, Lizhen Cui, Zhengxiang Pan, and Qiang Yang: Data Descriptor: A dataset of human decision-making in teamwork management. Scientific Data, 2017. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/2017-sci-A%20dataset%20of%20human%20decision-making%20in%20teamwork%20management.pdf) :star::star::star::star::star:
+
+**[3]** Han Yu, Zhiqi Shen, Cyril Leung, Chunyan Miao, Victor R. Lesser: A Survey of Multi-Agent Trust Management Systems. IEEE Access 1: 35-50 (2013). [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/IEEE%20Access-2013-A%20Survey%20of%20Multi-Agent%20Trust%20Management%20Systems.pdf) :star::star::star::star::star:
+
