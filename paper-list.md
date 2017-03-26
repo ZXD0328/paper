@@ -1,6 +1,6 @@
 # Paper List
 
-I would continue adding papers to this roadmap.
+You can download the paper in this page, and also can go to the directory of papers to read the related paper.
 
 ---------------------------------------
 
@@ -37,4 +37,8 @@ When average is not average: large response time fluctuations in n-tier systems.
 **[2]** Han Yu, Zhiqi Shen, Chunyan Miao, Cyril Leung, Yiqiang Chen, Simon Fauvel, Jun Lin, Lizhen Cui, Zhengxiang Pan, and Qiang Yang: Data Descriptor: A dataset of human decision-making in teamwork management. Scientific Data, 2017. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/2017-sci-A%20dataset%20of%20human%20decision-making%20in%20teamwork%20management.pdf) :star::star::star::star::star:
 
 **[3]** Han Yu, Zhiqi Shen, Cyril Leung, Chunyan Miao, Victor R. Lesser: A Survey of Multi-Agent Trust Management Systems. IEEE Access 1: 35-50 (2013). [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/IEEE%20Access-2013-A%20Survey%20of%20Multi-Agent%20Trust%20Management%20Systems.pdf) :star::star::star::star::star:
+
+**[4]** Han Yu, Chunyan Miao, Bo An, Cyril Leung, Victor R. Lesser: A Reputation Management Approach for Resource Constrained Trustee Agents. IJCAI 2013: 418-424. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/IJCAI-2013-A%20Reputation%20Management%20Approach%20for%20Resource%20Constrained%20Trustee%20Agents.pdf) :star::star::star::star::star:
+
+**[5]** Han Yu, Chunyan Miao, Bo An, Zhiqi Shen, Cyril Leung: Reputation-aware task allocation for human trustees. AAMAS 2014: 357-364. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/AAMAS-2014-Reputation-aware%20task%20allocation%20for%20human%20trustees.pdf) :star::star::star::star::star:
 
