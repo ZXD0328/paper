@@ -1,4 +1,4 @@
-# Papers List
+# Paper List
 
 I would continue adding papers to this roadmap.
 
@@ -21,7 +21,15 @@ When average is not average: large response time fluctuations in n-tier systems.
 
 **[7]** Yuliang Shi, Jiwei Huang, Xudong Zhao, Lei Liu, Shijun Liu, Lizhen Cui: Integrating Theoretical Modeling and Experimental Measurement for Soft Resource Allocation in Multi-tier Web Systems. ICWS 2016: 522-529. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/ICWS-2016-Integrating%20Theoretical%20Modeling%20and%20Experimental%20Measurement%20for%20Soft%20Resource%20Allocation%20in%20Multi-Tier%20Web%20Systems.pdf) :star::star::star::star::star:
 
-**[8]** Yuliang Shi, Xudong Zhao, Shanqing Guo, Shijun Liu, Lizhen Cui: SRConfig: An Empirical Method of Interdependent Soft Configurations for Improving Performance in n-Tier Application. SCC 2016: 601-6089. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/SCC-2016-SRConfig_An%20Empirical%20Method%20of%20Interdependent%20Soft%20Configurations%20for%20Improving%20Performance%20in%20n-Tier%20Application.pdf) :star::star::star::star::star:
+**[8]** Yuliang Shi, Xudong Zhao, Shanqing Guo, Shijun Liu, Lizhen Cui: SRConfig: An Empirical Method of Interdependent Soft Configurations for Improving Performance in n-Tier Application. SCC 2016: 601-608. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/SCC-2016-SRConfig_An%20Empirical%20Method%20of%20Interdependent%20Soft%20Configurations%20for%20Improving%20Performance%20in%20n-Tier%20Application.pdf) :star::star::star::star::star:
+
+**[9]** Peter Bodík, Armando Fox, Michael J. Franklin, Michael I. Jordan, David A. Patterson: Characterizing, modeling, and generating workload spikes for stateful services. SoCC 2010: 241-252. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/2010-SoCC10-Characterizing%2CModeling%2Cand%20Generatin%20Workload%20Spikes%20for%20Stateful%20Services.pdf) :star::star::star::star::star:
+
+**[10]** Bhuvan Urgaonkar, Giovanni Pacifici, Prashant J. Shenoy, Mike Spreitzer, Asser N. Tantawi: An analytical model for multi-tier internet services and its applications. SIGMETRICS 2005: 291-30. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/SIGMETRICS-2005-An%20Analytical%20Model%20for%20Multi-tier%20Internet%20Services%20and%20Its%20Applications.pdf) :star::star::star::star::star:
+
+**[11]** Dong Huang, Bingsheng He, Chunyan Miao: A Survey of Resource Management in Multi-Tier Web Applications. IEEE Communications Surveys and Tutorials 16(3): 1574-1590 (2014). [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/IEEE%20Communications%20Surveys-2014-A%20Survey%20of%20Resource%20Management%20in%20Multi-Tier%20Web%20Applications.pdf) :star::star::star::star::star:
+
+**[12]** Edward Chlebus, Jordy Brazier: Nonstationary Poisson modeling of web browsing session arrivals. Inf. Process. Lett. 102(5): 187-190 (2007). [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/Inf%20Process%20Lett-2007-Nonstationary%20Poisson%20modeling%20of%20web%20browsing%20session%20arrivalIs.pdf) :star::star::star::star::star:
 
 # 2 Behaviour Analysis
 **[1]** Han Yu, Chunyan Miao, Zhiqi Shen, Cyril Leung, Yiqiang Chen, Qiang Yang: Efficient Task Sub-Delegation for Crowdsourcing. AAAI 2015: 1305-1312. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/Han%20Yu-AAAI2015-Efficient%20Task%20Sub-Delegation%20for%20Crowdsourcing.pdf) :star::star::star::star::star:
