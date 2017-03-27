@@ -35,6 +35,10 @@ When average is not average: large response time fluctuations in n-tier systems.
 
 **[14]** PengCheng Xiong, Zhikui Wang, Simon Malkowski, Qingyang Wang, Deepal Jayasinghe, Calton Pu: Economical and Robust Provisioning of N-Tier Cloud Workloads: A Multi-level Control Approach. ICDCS 2011: 571-580. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/2011-ICDCS-Economical%20and%20Robust%20Provisioning%20of%20N-Tier%20Cloud%20Workloads_%20A%20Multi-level%20Control%20Approach.pdf) :star::star::star::star:
 
+**[15]** Qingyang Wang, Yasuhiko Kanemasa, Jack Li, Deepal Jayasinghe, Motoyuki Kawaba, Calton Pu: Response Time Reliability in Cloud Environments: An Empirical Study of n-Tier Applications at High Resource Utilization. SRDS 2012: 378-383. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/2012-SRDS-Response%20Time%20Reliability%20in%20Cloud%20Environments_%20An%20Empirical%20Study%20of%20n-Tier%20Applications%20at%20High%20Resource%20Utilization.pdf) :star::star::star::star::star:
+
+**[16]** Qingyang Wang, Yasuhiko Kanemasa, Jack Li, Deepal Jayasinghe, Toshihiro Shimizu, Masazumi Matsubara, Motoyuki Kawaba, Calton Pu: An Experimental Study of Rapidly Alternating Bottlenecks in n-Tier Applications. IEEE CLOUD 2013: 171-178. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/2013-Cloud-An%20Experimental%20Study%20of%20Rapidly%20Alternating_%20Bottlenecks%20in%20n-Tier%20Applications.pdf) :star::star::star::star::star:
+
 # 2 Behaviour Analysis
 **[1]** Han Yu, Chunyan Miao, Zhiqi Shen, Cyril Leung, Yiqiang Chen, Qiang Yang: Efficient Task Sub-Delegation for Crowdsourcing. AAAI 2015: 1305-1312. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/Han%20Yu-AAAI2015-Efficient%20Task%20Sub-Delegation%20for%20Crowdsourcing.pdf) :star::star::star::star::star:
 
