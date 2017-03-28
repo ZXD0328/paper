@@ -39,6 +39,8 @@ When average is not average: large response time fluctuations in n-tier systems.
 
 **[16]** Qingyang Wang, Yasuhiko Kanemasa, Jack Li, Deepal Jayasinghe, Toshihiro Shimizu, Masazumi Matsubara, Motoyuki Kawaba, Calton Pu: An Experimental Study of Rapidly Alternating Bottlenecks in n-Tier Applications. IEEE CLOUD 2013: 171-178. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/2013-Cloud-An%20Experimental%20Study%20of%20Rapidly%20Alternating_%20Bottlenecks%20in%20n-Tier%20Applications.pdf) :star::star::star::star::star:
 
+**[17]** Shiyang Ye, Tao Wang, Wenbo Zhang, Hua Zhong: Profit-driven resource scheduling for virtualized cloud systems. ICIS 2014: 263-268. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/system-performance/ICIS-2014-Profit-driven%20resource%20scheduling%20for%20virtualized%20cloud%20systems.pdf) :star::star::star::star:
+
 # 2 Behaviour Analysis
 **[1]** Han Yu, Chunyan Miao, Zhiqi Shen, Cyril Leung, Yiqiang Chen, Qiang Yang: Efficient Task Sub-Delegation for Crowdsourcing. AAAI 2015: 1305-1312. [[pdf]](https://raw.githubusercontent.com/ZXD0328/paper/master/papers/behaviour-analysis/Han%20Yu-AAAI2015-Efficient%20Task%20Sub-Delegation%20for%20Crowdsourcing.pdf) :star::star::star::star::star:
 
